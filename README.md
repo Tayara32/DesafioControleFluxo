@@ -58,16 +58,6 @@ O segundo parâmetro deve ser maior que o primeiro
 ```
 
 
-1. Certifique-se de ter o Java instalado em sua máquina.
-2. Compile o código com:
-   ```sh
-   javac Contador.java
-   ```
-3. Execute o programa com:
-   ```sh
-   java Contador
-   ```
-
 ## Melhorias Possíveis
 - Tratar entradas inválidas (exemplo: entrada de letras ou valores negativos).
 - Melhorar a formatação da saída para tornar a contagem mais legível.
